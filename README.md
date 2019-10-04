@@ -2,9 +2,11 @@
 
 1) Download the respective app for your computer
 
-Windows - right click eq_map_oscS3.zip above >> Save As...
+Windows -  click eq_map_oscS3.zip above >> Click on View Raw or Download >> unzip >> go into folder for your operating system >>lauch app
 
-Mac/Linux - right click eq_map_S3mac.zip above >> Save As...
+Mac/Linux - click eq_map_S3mac.zip above >> Click on View Raw or Download >> unzip >>go into folder for your operating system >>lauch app
+
+NOTE: lauch the app in one of the forders, not the Processing Sketch in the main folder unless you have Processing downloaded
 
 2) Move your mouse over the IP & click on it. The box should turn orange. Do not move your mouse ouside the box!
 
