@@ -1,10 +1,10 @@
 ## To use Client:
 
-1)Download the respective app for your computer
+1) Download the respective app for your computer
 
-Windows -
+Windows - right click eq_map_oscS3.zip above >> Save As...
 
-Mac/Linux - 
+Mac/Linux - right click eq_map_S3mac.zip above >> Save As...
 
 2) Move your mouse over the IP & click on it. The box should turn orange. Do not move your mouse ouside the box!
 
